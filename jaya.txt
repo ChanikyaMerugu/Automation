@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5480-3884
+
+ Directory of C:\Users\chanu\Desktop\java
+
+09/21/2017  01:05 PM    <DIR>          .
+09/21/2017  01:05 PM    <DIR>          ..
+09/20/2017  04:35 PM               551 file.txt
+09/20/2017  04:27 PM               502 index.html
+09/21/2017  12:59 PM               603 index2.html
+09/21/2017  01:05 PM                 0 jaya.txt
+09/21/2017  01:05 PM               898 Main.class
+09/20/2017  11:45 AM               589 Main.java
+09/20/2017  04:27 PM               451 readme.txt
+               7 File(s)          3,594 bytes
+               2 Dir(s)  137,435,398,144 bytes free
